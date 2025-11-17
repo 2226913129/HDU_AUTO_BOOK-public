@@ -14,7 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 import time
 
-
+SCHOOL_ID="22150529"
+PASSWORD="ZHA22150529"
 logging.basicConfig(
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%H:%M:%S',
